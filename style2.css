@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.peter{
+    width: 100%;
+    
+}
+.half{
+width: 40%;
+float: left;
+}
+#head{
+    font-size: 30px;
+}
+#head2{
+    font-size: 40px;
+    color: crimson;
+}
+.write{
+    text-align: left;
+}
+#upper{
+    padding-top: 150px;
+    padding-left: 100px;
+}
+section{
+    height: 720px;
+    padding-left: 100px;
+}
+.top-banner{
+    background-image: url(personal-website/header-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.hire{
+    color: aliceblue;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    
+
+    background-image: linear-gradient(45deg,red,crimson);
+}
